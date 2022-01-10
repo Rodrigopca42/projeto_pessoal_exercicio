@@ -1,0 +1,34 @@
+h1 {
+    font: bold 40px Arial;
+    padding: 50px;
+    margin-top: 0px;
+    background: yellow;
+
+}
+h2{
+    font:bold  30px Arial;
+    margin-left: 50px;
+}
+p{
+    font: 18px Arial;
+    margin: 25px ;
+}
+ul#s_midia {
+    font: 18px Arial;
+   
+
+}
+img#foto{
+    border-radius: 50px;
+    margin-left: 60px;
+    
+}
+div{
+background: rgb(162, 112, 209);
+
+}
+footer{
+    text-align: center;
+    font: normal 5px Arial;
+  
+}
