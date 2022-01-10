@@ -1,2 +1,2 @@
-# projeto_pessoal_exercicio
- exercício de desenvolvimento de html
+# projeto _CSS
+Exerc de desenvolvi de htlm e CSS
